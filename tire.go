@@ -1,4 +1,4 @@
-package utils
+package com
 
 type Trie struct {
 	Root *TrieNode

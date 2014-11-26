@@ -3,7 +3,7 @@
 
 // Package randutil provides various convenience functions for dealing with
 // random numbers and strings.
-package utils
+package com
 
 import (
 	"crypto/rand"
